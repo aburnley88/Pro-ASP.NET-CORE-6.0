@@ -10,31 +10,34 @@
         <title>RSVP Form</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="">
+        <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css">
+        <link rel="stylesheet" href="/css/styles.css">
     </head>
-    <body>     
-      <form asp-action="RsvpForm" method="post">
+    <body>
+      <h5 class="bg-primary text-white text-center m-2 p-2">RSVP</h5>     
+      <form asp-action="RsvpForm" method="post" class="m-2">
         <div asp-validation-summary="All"></div>
-        <div>
-            <label asp-for="Name">Your Name:</label>
-            <input type="text" asp-for="Name">
+        <div class="form-group">
+            <label asp-for="Name" class="form-label">Your Name:</label>
+            <input type="text" asp-for="Name" class="form-control">
         </div>
         <div>
-            <label asp-for="Email">Your Email:</label>
-            <input type="email" asp-for="Email">
+            <label asp-for="Email" class="form-label">Your Email:</label>
+            <input type="email" asp-for="Email" class="form-control">
         </div>
           <div>
-            <label asp-for="Phone">Your Phone Number:</label>
-            <input asp-for="Phone">
+            <label asp-for="Phone" class="form-label">Your Phone Number:</label>
+            <input asp-for="Phone" class="form-control">
         </div>
           <div>
-            <label asp-for="WillAttend">Showing Up?</label>
-            <select asp-for="WillAttend">
+            <label asp-for="WillAttend" class="form-label">Showing Up?</label>
+            <select asp-for="WillAttend" class="form-control">
+            <option value="">Please choose an option</option>
             <option value="true">Yes!</option>
             <option value="false">No, I'm a hater with no life</option>
             </select>
         </div>
-        <button type="submit">Submit RSVP</button>
+        <button type="submit" class="btn btn-primary mt-3">Submit RSVP</button>
       </form>
     </body>
 </html>

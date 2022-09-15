@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YFIRuk+5vnwnyaGaRzcgVAxImAxbKJtKcQCoGUMC1e4=",
+  "Hash": "R/uHuHii0hBaUTVzNy6sosaXAqYujq04Tqe8cVe0z4E=",
   "Source": "PartyInvites",
   "BasePath": "_content/PartyInvites",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\aburn\\OneDrive\\Desktop\\Pro ASP.NET Core 6\\PartyInvites\\wwwroot\\css\\styles.css",
+      "SourceId": "PartyInvites",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aburn\\OneDrive\\Desktop\\Pro ASP.NET Core 6\\PartyInvites\\wwwroot\\",
+      "BasePath": "_content/PartyInvites",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
       "Identity": "C:\\Users\\aburn\\OneDrive\\Desktop\\Pro ASP.NET Core 6\\PartyInvites\\wwwroot\\favicon.ico",
