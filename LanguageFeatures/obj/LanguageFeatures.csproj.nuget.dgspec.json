@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aburn\\OneDrive\\Desktop\\Pro ASP.NET Core 6\\LanguageFeatures\\LanguageFeatures.csproj": {}
+    "C:\\Users\\aburn\\OneDrive\\DeskTop\\Pro ASP.NET Core 6\\LanguageFeatures\\LanguageFeatures.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aburn\\OneDrive\\Desktop\\Pro ASP.NET Core 6\\LanguageFeatures\\LanguageFeatures.csproj": {
+    "C:\\Users\\aburn\\OneDrive\\DeskTop\\Pro ASP.NET Core 6\\LanguageFeatures\\LanguageFeatures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aburn\\OneDrive\\Desktop\\Pro ASP.NET Core 6\\LanguageFeatures\\LanguageFeatures.csproj",
+        "projectUniqueName": "C:\\Users\\aburn\\OneDrive\\DeskTop\\Pro ASP.NET Core 6\\LanguageFeatures\\LanguageFeatures.csproj",
         "projectName": "LanguageFeatures",
-        "projectPath": "C:\\Users\\aburn\\OneDrive\\Desktop\\Pro ASP.NET Core 6\\LanguageFeatures\\LanguageFeatures.csproj",
+        "projectPath": "C:\\Users\\aburn\\OneDrive\\DeskTop\\Pro ASP.NET Core 6\\LanguageFeatures\\LanguageFeatures.csproj",
         "packagesPath": "C:\\Users\\aburn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aburn\\OneDrive\\Desktop\\Pro ASP.NET Core 6\\LanguageFeatures\\obj\\",
+        "outputPath": "C:\\Users\\aburn\\OneDrive\\DeskTop\\Pro ASP.NET Core 6\\LanguageFeatures\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
