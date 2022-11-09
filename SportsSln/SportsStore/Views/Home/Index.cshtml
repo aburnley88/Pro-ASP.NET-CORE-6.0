@@ -1,7 +1,7 @@
 ﻿
-@model IQueryable<Product>
+@model ProductListViewModel
 
-    @foreach (var p in Model ?? Enumerable.Empty<Product>()) 
+    @foreach (var p in Model?.Products ?? Enumerable.Empty<Product>()) 
     {
         <div>
             <h3>@p.ProductName</h3>
@@ -10,3 +10,4 @@
         </div>
    
     }
+    <div page-model="@Model?.PagingInfo" page-action="Index"></div>
