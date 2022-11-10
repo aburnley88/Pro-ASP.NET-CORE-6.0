@@ -5,6 +5,7 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SportsStore
 build_property.RootNamespace = SportsStore
@@ -17,6 +18,10 @@ build_property._RazorSourceGeneratorDebug =
 
 [C:/Users/aburn/OneDrive/Desktop/Pro ASP.NET Core 6/SportsSln/SportsStore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aburn/OneDrive/Desktop/Pro ASP.NET Core 6/SportsSln/SportsStore/Views/Shared/Components/NavigationMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmF2aWdhdGlvbk1lbnVcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/aburn/OneDrive/Desktop/Pro ASP.NET Core 6/SportsSln/SportsStore/Views/Shared/ProductSummary.cshtml]

@@ -58,3 +58,8 @@ C:\Users\aburn\OneDrive\Desktop\Pro ASP.NET Core 6\SportsSln\SportsStore\obj\Deb
 C:\Users\aburn\OneDrive\Desktop\Pro ASP.NET Core 6\SportsSln\SportsStore\obj\Debug\net6.0\ref\SportsStore.dll
 C:\Users\aburn\OneDrive\Desktop\Pro ASP.NET Core 6\SportsSln\SportsStore\bin\Debug\net6.0\libman.json
 C:\Users\aburn\OneDrive\Desktop\Pro ASP.NET Core 6\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.staticwebassets.runtime.json
+C:\Users\aburn\OneDrive\Desktop\Pro ASP.NET Core 6\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets\msbuild.SportsStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aburn\OneDrive\Desktop\Pro ASP.NET Core 6\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets\msbuild.build.SportsStore.props
+C:\Users\aburn\OneDrive\Desktop\Pro ASP.NET Core 6\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SportsStore.props
+C:\Users\aburn\OneDrive\Desktop\Pro ASP.NET Core 6\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SportsStore.props
+C:\Users\aburn\OneDrive\Desktop\Pro ASP.NET Core 6\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets.pack.json
