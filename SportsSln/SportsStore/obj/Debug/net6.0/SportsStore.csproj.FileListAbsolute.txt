@@ -56,3 +56,5 @@ C:\Users\aburn\OneDrive\Desktop\Pro ASP.NET Core 6\SportsSln\SportsStore\obj\Deb
 C:\Users\aburn\OneDrive\Desktop\Pro ASP.NET Core 6\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.pdb
 C:\Users\aburn\OneDrive\Desktop\Pro ASP.NET Core 6\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.genruntimeconfig.cache
 C:\Users\aburn\OneDrive\Desktop\Pro ASP.NET Core 6\SportsSln\SportsStore\obj\Debug\net6.0\ref\SportsStore.dll
+C:\Users\aburn\OneDrive\Desktop\Pro ASP.NET Core 6\SportsSln\SportsStore\bin\Debug\net6.0\libman.json
+C:\Users\aburn\OneDrive\Desktop\Pro ASP.NET Core 6\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.staticwebassets.runtime.json
