@@ -8,7 +8,7 @@
                             style="float:right"><small>@Model.ProductPrice.ToString("c")</small></span>
                 </h4>
             </div>
-            <form id="@Model?.ProductID" asp-page="/Cart" method="post">
+            <form id="@Model?.ProductID"  asp-page="/Cart" method="post">
                 <input type="hidden" asp-for="ProductID" />
                 <input type="hidden" name="returnUrl"
                         value="@ViewContext.HttpContext.Request.PathAndQuery()" />
