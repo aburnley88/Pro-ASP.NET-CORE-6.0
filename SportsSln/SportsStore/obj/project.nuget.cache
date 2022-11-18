@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rQECPG7NRzi6BhYf7vzYvLkiGM4YHZwbZ+Irwhik9yH99crai//vWxGtqamr60rlKjjSmqC2ubvldb41kTjUvA==",
+  "dgSpecHash": "CCG7omqT3PUyXMxnRCMqb3qynp9Q9xIDVJhjvcn6ACRb0OYS2lmAVRk7cVRrfJd3Dl/4jCUT9oMF6MtBgWUmpw==",
   "success": true,
   "projectFilePath": "C:\\Users\\aburn\\OneDrive\\Desktop\\Pro ASP.NET Core 6\\SportsSln\\SportsStore\\SportsStore.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\aburn\\.nuget\\packages\\fontawesome\\4.7.0\\fontawesome.4.7.0.nupkg.sha512",
     "C:\\Users\\aburn\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\aburn\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\aburn\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
