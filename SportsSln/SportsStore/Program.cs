@@ -11,10 +11,8 @@ builder.Services.AddDbContext<StoreDbContext>(opts =>
 });
 
 builder.Services.AddScoped<IStoreRepository, EFStoreRepository>();
-builder.Services.AddRazorPages().AddRazorPagesOptions(o =>
-{
-    o.Conventions.ConfigureFilter(new IgnoreAntiforgeryTokenAttribute());
-});
+builder.Services.AddScoped<IOrderRepository, EFOrderRepository>();
+builder.Services.AddRazorPages();
 builder.Services.AddDistributedMemoryCache();
 builder.Services.AddSession();
 builder.Services.AddScoped<Cart>(sp => SessionCart.GetCart(sp));
