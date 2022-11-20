@@ -38,7 +38,7 @@ namespace SportsStore.Pages
             return RedirectToPage(new { returnUrl = returnUrl });
         }
 
-        [ValidateAntiForgeryToken]
+      
         public IActionResult OnPostRemove(long ProductID, string returnUrl)
         {
             Cart.RemoveLine(Cart.Lines.First(cl =>

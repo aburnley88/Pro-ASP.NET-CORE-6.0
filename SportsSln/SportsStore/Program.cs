@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SportsStore.Models;
 
@@ -10,7 +11,10 @@ builder.Services.AddDbContext<StoreDbContext>(opts =>
 });
 
 builder.Services.AddScoped<IStoreRepository, EFStoreRepository>();
-builder.Services.AddRazorPages();
+builder.Services.AddRazorPages().AddRazorPagesOptions(o =>
+{
+    o.Conventions.ConfigureFilter(new IgnoreAntiforgeryTokenAttribute());
+});
 builder.Services.AddDistributedMemoryCache();
 builder.Services.AddSession();
 builder.Services.AddScoped<Cart>(sp => SessionCart.GetCart(sp));
